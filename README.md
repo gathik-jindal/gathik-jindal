@@ -12,7 +12,7 @@ Here are some of the projects I've been working on:
 
 - **MIPS Processor Design**: A simulation of a non-pipelined MIPS processor accompanied by an assembler and GUI to inspect its step by step process. This project also includes three programs designed to run on the simulated processor. ([Link to proj](https://github.com/gathik-jindal/MIPS-Processor-Design))
 
-- **PotterBot**: A Python-based discord bot that won the Hacknite at IIITB. It lets user play Harry Potter based games, progress through levels and store their data. ([Link to proj](https://github.com/SnehalSharma05/Hacknite))
+- **PotterBot**: A Python-based discord bot that won the Hacknite at IIITB. It lets users play Harry Potter based games, progress through levels and store their data. ([Link to proj](https://github.com/SnehalSharma05/Hacknite))
 
 - **IAS-ISA**: An assembler and simulator for the IAS (Institute for Advanced Study) Instruction Set Architecture, implemented in Python. ([Link to proj](https://github.com/gathik-jindal/IAS-ISA))
 
