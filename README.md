@@ -6,7 +6,7 @@ Hello! I'm Gathik Jindal, a first-year student at IIIT Bangalore, passionate abo
 
 Here are some of the projects I've been working on:
 
-- **Nebula-S-Edge**: this a modern take on the classic 2D Space Invader genre. Players engage in wave-based space shooter mechanics, enjoy boss fights, and participate in multiplayer modes with secure account handling and real-time networking. ([Link to proj](https://github.com/AbhirathA/Nebula-s-Edge))
+- **Nebula-S-Edge**: This a modern take on the classic 2D Space Invader genre. Players engage in wave-based space shooter mechanics, enjoy boss fights, and participate in multiplayer modes with secure account handling and real-time networking. ([Link to proj](https://github.com/AbhirathA/Nebula-s-Edge))
 
 - **Moore Machine**: A simple Moore Machine implemented in Python, demonstrating the fundamentals of finite state machines. ([Link to proj](https://github.com/gathik-jindal/MooreMachine))
 
