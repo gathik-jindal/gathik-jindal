@@ -6,15 +6,15 @@ Hello! I'm Gathik Jindal, a first-year student at IIIT Bangalore, passionate abo
 
 Here are some of the projects I've been working on:
 
-- **Nebula-S-Edge**: A cutting-edge edge computing framework designed for real-time IoT applications. Contributed to its development by optimizing data flow and integration with cloud services. ([github.com](https://github.com/gathik-jindal)) 
+- **Nebula-S-Edge**: this a modern take on the classic 2D Space Invader genre. Players engage in wave-based space shooter mechanics, enjoy boss fights, and participate in multiplayer modes with secure account handling and real-time networking. ([Link to proj]([https://github.com/gathik-jindal](https://github.com/AbhirathA/Nebula-s-Edge)))
 
-- **IAS-ISA**: An assembler and simulator for the IAS (Institute for Advanced Study) Instruction Set Architecture, implemented in Python. ([github.com](https://github.com/gathik-jindal))
+- **Moore Machine**: A simple Moore Machine implemented in Python, demonstrating the fundamentals of finite state machines. ([Link to proj]([https://github.com/gathik-jindal](https://github.com/gathik-jindal/MooreMachine)))
 
-- **MIPS Processor Design**: A simulation of a non-pipelined MIPS processor accompanied by an assembler. This project also includes three programs designed to run on the simulated processor. ([github.com](https://github.com/gathik-jindal))
+- **MIPS Processor Design**: A simulation of a non-pipelined MIPS processor accompanied by an assembler. This project also includes three programs designed to run on the simulated processor. ([Link to proj]([https://github.com/gathik-jindal](https://github.com/gathik-jindal/MIPS-Processor-Design)))
 
-- **Moore Machine**: A simple Moore Machine implemented in Python, demonstrating the fundamentals of finite state machines. ([github.com](https://github.com/gathik-jindal))
+- **PotterBot**: A Python-based project that won the Hacknite at IIITB. ([Link to proj]([https://github.com/gathik-jindal](https://github.com/SnehalSharma05/Hacknite)))
 
-- **PotterBot**: A Python-based project developed during Hacknite at IIITB. ([github.com](https://github.com/gathik-jindal))
+- **IAS-ISA**: An assembler and simulator for the IAS (Institute for Advanced Study) Instruction Set Architecture, implemented in Python. ([Link to proj]([https://github.com/gathik-jindal](https://github.com/gathik-jindal/IAS-ISA)))
 
 ## Connect with Me
 
