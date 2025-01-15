@@ -10,7 +10,7 @@ Here are some of the projects I've been working on:
 
 - **Moore Machine**: A simple Moore Machine implemented in Python, demonstrating the fundamentals of finite state machines. ([Link to proj](https://github.com/gathik-jindal/MooreMachine))
 
-- **MIPS Processor Design**: A simulation of a non-pipelined MIPS processor accompanied by an assembler. This project also includes three programs designed to run on the simulated processor. ([Link to proj](https://github.com/gathik-jindal/MIPS-Processor-Design))
+- **MIPS Processor Design**: A simulation of a non-pipelined MIPS processor accompanied by an assembler and GUI to inspect its step by step process. This project also includes three programs designed to run on the simulated processor. ([Link to proj](https://github.com/gathik-jindal/MIPS-Processor-Design))
 
 - **PotterBot**: A Python-based project that won the Hacknite at IIITB. ([Link to proj](https://github.com/SnehalSharma05/Hacknite))
 
