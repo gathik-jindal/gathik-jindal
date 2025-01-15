@@ -8,13 +8,13 @@ Here are some of the projects I've been working on:
 
 - **Nebula-S-Edge**: this a modern take on the classic 2D Space Invader genre. Players engage in wave-based space shooter mechanics, enjoy boss fights, and participate in multiplayer modes with secure account handling and real-time networking. ([Link to proj]([https://github.com/gathik-jindal](https://github.com/AbhirathA/Nebula-s-Edge)))
 
-- **Moore Machine**: A simple Moore Machine implemented in Python, demonstrating the fundamentals of finite state machines. ([Link to proj]([https://github.com/gathik-jindal](https://github.com/gathik-jindal/MooreMachine)))
+- **Moore Machine**: A simple Moore Machine implemented in Python, demonstrating the fundamentals of finite state machines. ([Link to proj](https://github.com/gathik-jindal/MooreMachine))
 
-- **MIPS Processor Design**: A simulation of a non-pipelined MIPS processor accompanied by an assembler. This project also includes three programs designed to run on the simulated processor. ([Link to proj]([https://github.com/gathik-jindal](https://github.com/gathik-jindal/MIPS-Processor-Design)))
+- **MIPS Processor Design**: A simulation of a non-pipelined MIPS processor accompanied by an assembler. This project also includes three programs designed to run on the simulated processor. ([Link to proj](https://github.com/gathik-jindal/MIPS-Processor-Design))
 
-- **PotterBot**: A Python-based project that won the Hacknite at IIITB. ([Link to proj]([https://github.com/gathik-jindal](https://github.com/SnehalSharma05/Hacknite)))
+- **PotterBot**: A Python-based project that won the Hacknite at IIITB. ([Link to proj](https://github.com/SnehalSharma05/Hacknite))
 
-- **IAS-ISA**: An assembler and simulator for the IAS (Institute for Advanced Study) Instruction Set Architecture, implemented in Python. ([Link to proj]([https://github.com/gathik-jindal](https://github.com/gathik-jindal/IAS-ISA)))
+- **IAS-ISA**: An assembler and simulator for the IAS (Institute for Advanced Study) Instruction Set Architecture, implemented in Python. ([Link to proj](https://github.com/gathik-jindal/IAS-ISA))
 
 ## Connect with Me
 
